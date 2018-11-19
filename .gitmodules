@@ -1,0 +1,4 @@
+[submodule "cn-cbor"]
+	path = cn-cbor
+	url = https://github.com/cabo/cn-cbor.git
+	branch = master
